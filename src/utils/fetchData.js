@@ -2,7 +2,7 @@ export const exerciseOptions = {
 	method: 'GET',
 	headers: {
 	  'X-RapidAPI-Host': 'exercisedb.p.rapidapi.com',
-	  'X-RapidAPI-Key': process.env.React_app_radid_api_key,
+	  'X-RapidAPI-Key': process.keyhidden,
 	},
   };
   
@@ -10,7 +10,7 @@ export const exerciseOptions = {
 	method: 'GET',
 	headers: {
 	  'X-RapidAPI-Host': 'youtube-search-and-download.p.rapidapi.com',
-	  'X-RapidAPI-Key': 'b8e2eaedd4msh5c08515617461c8p1a1cb6jsneea1ad3549a9',
+	  'X-RapidAPI-Key': process.keyhidden,
 	},
   };
   
