@@ -1,3 +1,11 @@
+This was made with a lot of help from documents and some videos on certain things.
+
+https://mattb-react-gymapp.netlify.app
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
