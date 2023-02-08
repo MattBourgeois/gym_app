@@ -10,7 +10,8 @@ const Home = () => {
   const [bodyPart, setBodyPart] = useState('all');
 
   return (
-    <Box>
+    // Box = Base wrapper in css with material mui 
+    <Box> 
       <HeroBanner />
       <SearchExercises setExercises={setExercises} bodyPart={bodyPart} setBodyPart={setBodyPart} />
       <Exercises setExercises={setExercises} exercises={exercises} bodyPart={bodyPart} />
